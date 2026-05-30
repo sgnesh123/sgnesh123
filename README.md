@@ -29,7 +29,7 @@ Git, GitHub, Docker, Kubernetes, Google Cloud Platform, MySQL, Firebase, Postman
 | [Obesity Levels & Income in Wisconsin](https://github.com/sgnesh123/obesity-income-wisconsin) | County-level OLS regression analysis examining obesity rates and median household income | Python, Statsmodels, GeoPandas |
 | [Finance Tracker](https://github.com/sgnesh123/Finance-Tracker) | A full-stack web application with real-time budget monitoring and spending trend visualization | React, TypeScript, Node.js, PostgreSQL |
 | [Loan Default Predictor](https://github.com/sgnesh123/Loan-Default-Prediction) | Logistic regression pipeline assessing credit risk across 255K+ borrower records | Python, Pandas, Sklearn |
-| [Madison Mapple](https://github.com/sgnesh123/MadisonMapple) | Android housing app with Google Maps integration and AI-powered chat assistant | Kotlin, Google Maps SDK, Firebase |
+| [Madison Mapple](https://github.com/sgnesh123/MadisonMapple) | Android housing app with Google Maps integration and AI-powered chat assistance | Kotlin, Google Maps SDK, Firebase |
 | [YouTube Sentiment Analyzer](https://github.com/sgnesh123/Youtube-Sentiment-Analyzer) | An interactive web application that performs sentiment analysis on 1,000+ YouTube comments per request | Python, Streamlit, VADER |
 
 ---
