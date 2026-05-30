@@ -1,6 +1,6 @@
 # Hi, I'm Saiganesh! 👋
 
-As a recent undergraduate in Computer Science, Data Science, and Economic Analytics from the University of Wisconsin-Madison, I am driven by a curiosity for how data and technology can be used to solve meaningful problems. My project work encompasses full-stack web development, mobile applications, AI/ML, and econometric analysis. 
+As a recent undergraduate in Computer Science, Data Science, and Economic Analytics from the University of Wisconsin-Madison, my work is driven by a passion for using data and technology to solve meaningful problems. I have actively pursued this passion through projects spanning full-stack web development, mobile applications, AI/ML, and econometric analysis. 
 
 I am particularly interested in applying AI and statistical methods within the domains of technology, finance, or public policy.
 
